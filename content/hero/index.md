@@ -4,7 +4,7 @@ name: 'Vasco Rodrigues'
 subtitle: 'Keen on exploring new things!'
 buttonText: 'Contact Me'
 ---
-Ambitious AI Researcher based in Porto,Portugal with over 2 years of experience in applying AI in solving business problems through analysis, planning and experimentation. Recognized for academic excellence, I hold a Merit Award and was ranked 2nd overall in my MSc in Computer Software Engineering: Information and Knowledge Systems from [ISEP](https://www.isep.ipp.pt/). Currently looking to make the jump to a Data Science or Machine Learning Engineer position where i can continue honing my current skills and learn new ones to help drive business
-success.
+Ambitious Data Scientist with 3+ years of experience developing AI‑driven solutions that boost revenue, process efficiency, and customer engagement. Proven success in predictive modeling, MLOps, and automation, including enhancing loans outbound sales by 2.5x and production by 308%, and leading federated model integrations. Skilled in machine learning, data‑driven decision‑
+making, and AI product lifecycle, with a passion for solving complex business challenges through analysis and experimentation.
 
-Currently working as an AI Researcher at [GECAD](https://www.gecad.isep.ipp.pt/GECAD/Pages/Presentation/Home.aspx).
+Currently working as a Data Scientsq at [Universo Sonae | Bankinter](https://universo.pt/institucional/).

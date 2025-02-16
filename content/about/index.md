@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-avatar: 'foto2.jpeg'
+avatar: 'foto2.jpg'
 skills:
   - Python 
   - Data Science libraries like Pandas, NumPy, Scikit‑learn, PyTorch, Tensorflow, etc.

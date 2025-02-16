@@ -1,7 +1,7 @@
 ---
 date: '2020-02-01'
-title: 'Full Stack Developer - Energy Department'
-company: 'GECAD'
+title: 'Full Stack Developer'
+company: 'GECAD - Energy Department'
 range: 'February 2020 - August 2020'
 url: 'https://www.gecad.isep.ipp.pt/GECAD/Pages/Presentation/Home.aspx'
 ---

@@ -1,7 +1,7 @@
 ---
 date: '2021-12-01'
-title: 'AI Researcher ‑ AI Department'
-company: 'GECAD'
+title: 'AI Researcher'
+company: 'GECAD - AI Department'
 range: 'December 2022 - Nowadays'
 url: 'https://www.gecad.isep.ipp.pt/GECAD/Pages/Presentation/Home.aspx'
 ---
